@@ -1,65 +1,92 @@
- =========================================
-| Chapitre 2 – Hackathon sous les Étoiles |
- =========================================
+ =========================================================
+| Chapitre 3 – Rongeurs, Taupes et Variables Malodorantes |
+ =========================================================
 
 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-Pour relancer la hype, nos amis décident de participer au Hack’n’Wood,
-un hackathon local organisé par les hiboux développeurs.
-▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔
-██╗  ██╗ █████╗  ██████╗██╗  ██╗█╗███╗   ██╗█╗██╗    ██╗ ██████╗  ██████╗ ██████╗ 
-██║  ██║██╔══██╗██╔════╝██║ ██╔╝╚╝████╗  ██║╚╝██║    ██║██╔═══██╗██╔═══██╗██╔══██╗
-███████║███████║██║     █████╔╝   ██╔██╗ ██║  ██║ █╗ ██║██║   ██║██║   ██║██║  ██║
-██╔══██║██╔══██║██║     ██╔═██╗   ██║╚██╗██║  ██║███╗██║██║   ██║██║   ██║██║  ██║
-██║  ██║██║  ██║╚██████╗██║  ██╗  ██║ ╚████║  ╚███╔███╔╝╚██████╔╝╚██████╔╝██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝  ╚═╝  ╚═══╝   ╚══╝╚══╝  ╚═════╝  ╚═════╝ ╚═════╝ 
-				  ,     ,
-				 (\____/)	  /\_/\
-		  (\__/)	 ( ^  ^ )	 ( ^.^ )
-		 (=^.^=)	  ( -- )	  > ^ <
-		 (")_(")	  (____)	 / || \
-		 /▯▯▯▯\	 /      \	 | || |
-		 Noisette	   Lilo		  Riko
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Les tests de terrain de Sniffly commencent, et très vite... ça part en cacahuète.
+Le problème ? Les taupes, complètement invisibles au radar visuel de l’appli,
+déclenchent des alertes à chaque fois qu’elles creusent sous terre.
+Résultat : Sniffly pense qu’un lynx attaque à chaque fois qu’une taupe éternue.
+▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔
+ (\_/)		 (\_/)
+( o.o )		( o.o )
+ > ^ <		 > ^ <
+ Taupe	      Autre taupe
+
+[ALERTE] Attaque de Lynx détecté !
+[ALERTE] Attaque de Lynx détecté !
+[ALERTE] Attaque de Lynx détecté !
+[ALERTE] Attaque de Lynx détecté !
+[ALERTE] Attaque de Lynx détecté !
+...
+
+     (\_/)
+    ( >.< ) < ATCHOUM !
+     > ^ <
+Encore une taupe
 
 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-Le défi ? En 24h, créer un outil utile pour la forêt.
-Noisette propose un détecteur de glands géolocalisé,
-mais Riko penche pour une appli de rencontres entre animaux : Tindergnion.
-▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔
-  (\__/)					 			 /\_/\
- (='.'=) / On pourrai faire un		Non je pense qu'il vaut mieux \	( o.o )
- (")_(") \ détécteur de glands !	faire une app de rencontre !  /  > ^ <
- /▯▯▯▯\					 			/ || \
-						 			| || |
- Noisette					  			 Riko
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Et ce n’est pas tout. Les ragondins du marécage déclenchent des faux positifs
+à cause de leur parfum naturel, particulièrement... intense.
+▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔
+   ) *)  )  *
+ *(  (  (  *
+   (\_/)
+  ( o_o )
+  (  -  )
+  /| | |\
+ ( | | | )
+(  | | |  )
+ ( | | | )
+  `"` `"`
+ Ragondin
+
+[ALERTE] Attaque détecté !
 
 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-Finalement, ils tranchent pour Sniffly, une appli qui détecte les prédateurs proches
-en analysant les vibrations du sol et les signaux odorants.
-▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔
-  (\__/)					 						     /\_/\
- (='.'=) / Et si on faisais quelque chose	Oui bonne idée ! On pourrai faire une app qui     \ ( ^.^ )
- (")_(") \ d'utile pour notre survie ?		détécte les prédateurs ! On l'appellerai Sniffly. /  > ^ <
- /▯▯▯▯\					 						    / || \
-						 						    | || |
- Noisette					  						     Riko
+_ _ _ _ _ _
+Riko râle:
+▔ ▔ ▔ ▔ ▔
+  /\_/\
+ ( ò.ó ) / C’est pas une appli de détection,
+  > ^ <  \ c’est une appli de panique collective !
+ / ||| \
+ | ||| |
+  Riko
 
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-C’est un succès ! Même les renards sont bluffés (et un peu vexés).
+Noisette trouve une solution : ajouter un module de reconnaissance
+"odeurs locales + vibrations + densité des moustaches".
+Lilo code ça en une nuit, boosté au maté de racine de pissenlit.
+▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔
+  ,     ,	   _______
+ (\____/)	  |.-----.|
+ ( -  - )	  ||x . x||
+  ( -- )	  ||_.-._||
+  (____)	  `--)-(--`
+ /      \	 __[=== o]___
+   Lilo 	|:::::::::::|\
+		`-=========-`()
+
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Au petit matin, les tests sont concluants. Plus de fausses alertes.
+Juste des vrais prédateurs, et quelques ragondins un peu vexés.
+Sniffly passe en version 1.0.1. C’est un succès.
 ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔
 \	|	|	|	|	|	|	|	|	/
 
 _    ▄████████ ███▄▄▄▄    ▄█     ▄████████    ▄████████  ▄█       ▄██   ▄   _
-    ███    ███ ███▀▀▀██▄ ███    ███    ███   ███    ███ ███       ███   ██▄	  _______
-_   ███    █▀  ███   ███ ███▌   ███    █▀    ███    █▀  ███       ███▄▄▄███ _	 | Hack  |
-    ███        ███   ███ ███▌  ▄███▄▄▄      ▄███▄▄▄     ███       ▀▀▀▀▀▀███	(|  'n'  |)
-_ ▀███████████ ███   ███ ███▌ ▀▀███▀▀▀     ▀▀███▀▀▀     ███       ▄██   ███ _	 | Wood  |
-           ███ ███   ███ ███    ███          ███        ███       ███   ███	  \  #1 /
-_    ▄█    ███ ███   ███ ███    ███          ███        ███▌    ▄ ███   ███ _	   '---'
-   ▄████████▀   ▀█   █▀  █▀     ███          ███        █████▄▄██  ▀█████▀  	   _|_|_
-                                                        ▀
-/	|	|	|	|	|	|	|	|	\
+    ███    ███ ███▀▀▀██▄ ███    ███    ███   ███    ███ ███       ███   ██▄
+_   ███    █▀  ███   ███ ███▌   ███    █▀    ███    █▀  ███       ███▄▄▄███ _
+    ███        ███   ███ ███▌  ▄███▄▄▄      ▄███▄▄▄     ███       ▀▀▀▀▀▀███
+_ ▀███████████ ███   ███ ███▌ ▀▀███▀▀▀     ▀▀███▀▀▀     ███       ▄██   ███ _
+           ███ ███   ███ ███    ███          ███        ███       ███   ███
+_    ▄█    ███ ███   ███ ███    ███          ███        ███▌    ▄ ███   ███ _
+   ▄████████▀   ▀█   █▀  █▀     ███          ███        █████▄▄██  ▀█████▀
+                                                        ▀		Nouvelle version !
+/	|	|	|	|	|	|	|	|	v.1.0.1
 
