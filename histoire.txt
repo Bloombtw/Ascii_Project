@@ -1,6 +1,12 @@
-Chapitre 2 – Hackathon sous les Étoiles
+ =========================================
+| Chapitre 2 – Hackathon sous les Étoiles |
+ =========================================
 
-Pour relancer la hype, nos amis décident de participer au Hack’n’Wood, un hackathon local organisé par les hiboux développeurs.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Pour relancer la hype, nos amis décident de participer au Hack’n’Wood,
+un hackathon local organisé par les hiboux développeurs.
+▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔
 ██╗  ██╗ █████╗  ██████╗██╗  ██╗█╗███╗   ██╗█╗██╗    ██╗ ██████╗  ██████╗ ██████╗ 
 ██║  ██║██╔══██╗██╔════╝██║ ██╔╝╚╝████╗  ██║╚╝██║    ██║██╔═══██╗██╔═══██╗██╔══██╗
 ███████║███████║██║     █████╔╝   ██╔██╗ ██║  ██║ █╗ ██║██║   ██║██║   ██║██║  ██║
@@ -15,16 +21,24 @@ Pour relancer la hype, nos amis décident de participer au Hack’n’Wood, un h
 		 /▯▯▯▯\	 /      \	 | || |
 		 Noisette	   Lilo		  Riko
 
-Le défi ? En 24h, créer un outil utile pour la forêt. Noisette propose un détecteur de glands géolocalisé, mais Riko penche pour une appli de rencontres entre animaux : Tindergnion.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Le défi ? En 24h, créer un outil utile pour la forêt.
+Noisette propose un détecteur de glands géolocalisé,
+mais Riko penche pour une appli de rencontres entre animaux : Tindergnion.
+▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔
   (\__/)					 			 /\_/\
- (='.'=) / On pourrai faire un		Non je pense qu'il vaut mieux \	( ^.^ )
+ (='.'=) / On pourrai faire un		Non je pense qu'il vaut mieux \	( o.o )
  (")_(") \ détécteur de glands !	faire une app de rencontre !  /  > ^ <
  /▯▯▯▯\					 			/ || \
 						 			| || |
  Noisette					  			 Riko
 
 
-Finalement, ils tranchent pour Sniffly, une appli qui détecte les prédateurs proches en analysant les vibrations du sol et les signaux odorants.
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Finalement, ils tranchent pour Sniffly, une appli qui détecte les prédateurs proches
+en analysant les vibrations du sol et les signaux odorants.
+▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔
   (\__/)					 						     /\_/\
  (='.'=) / Et si on faisais quelque chose	Oui bonne idée ! On pourrai faire une app qui     \ ( ^.^ )
  (")_(") \ d'utile pour notre survie ?		détécte les prédateurs ! On l'appellerai Sniffly. /  > ^ <
@@ -33,7 +47,9 @@ Finalement, ils tranchent pour Sniffly, une appli qui détecte les prédateurs p
  Noisette					  						     Riko
 
 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 C’est un succès ! Même les renards sont bluffés (et un peu vexés).
+▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔
 \	|	|	|	|	|	|	|	|	/
 
 _    ▄████████ ███▄▄▄▄    ▄█     ▄████████    ▄████████  ▄█       ▄██   ▄   _
@@ -46,3 +62,4 @@ _    ▄█    ███ ███   ███ ███    ███          �
    ▄████████▀   ▀█   █▀  █▀     ███          ███        █████▄▄██  ▀█████▀  	   _|_|_
                                                         ▀
 /	|	|	|	|	|	|	|	|	\
+
