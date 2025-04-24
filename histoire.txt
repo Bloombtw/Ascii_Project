@@ -1,42 +1,46 @@
- ================================================
-| Chapitre 5 – Le Code, les Copains et le Canapé |
- ================================================
+ =====================================
+| Chapitre 6 – Le Projet Taupographie |
+ =====================================
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-À Alpine Valley, ils bossent dur mais toujours ensemble.
-Le soir, ils se racontent leurs bugs, leurs idées, et leurs rêves devant un feu de cheminée numérique.
-Leur amitié est leur plus belle réussite.
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-		  _|___|_
-		 /''*''*'\
-		 |*''*'''|
-		 |_/__/\_|
+
+- - - - - - - - - - - - - - - - - - - - - - -
+Autour d’un thé de racines, Noisette lance :
+- - - - - - - - - - - - - - - - - - - - - - -
+  (\_/)
+ (='.'=) / Et si on aidait les
+ (")_(") \ taupes à mieux s’orienter ?
+ /▯▯▯▯\
+ Noisette
+
+
+- - - - - - - - - - - - - - - - - -
+Lilo et Riko échangent un regard.
+- - - - - - - - - - - - - - - - - -
+  ,     ,
+ (\____/)
+ ( o  o )				 /\_/\
+  ( -- ) / Une appli GPS souterrain ? \ ( o.o )
+  (____) \ Pourquoi pas.	      /  > ^ <
+ /      \				/ ||| \
+					| ||| |
+   Lilo					 Riko
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Ils l’appelleront Taupographie.
+Première étape : cartographier les galeries... sans se perdre.
+Spoiler : ils se perdent.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 		  ,     ,
 		 (\____/)	  /\_/\
-  (\_/)		 ( ^  ^ )	 ( ^.^ )
- (=^.^=)	  ( -- )	  > ^ <
+  (\_/)		 ( o  o )	 ( o.o )
+ (=o.o=)	  ( -- )	  > ^ <
  (")_(")	  (____)	 / ||| \
  /▯▯▯▯\	 /      \	 | ||| |
  Noisette	   Lilo		  Riko
 
-	\	     |		   /
-Faut qu'on se refasse quelque chose les amis !
 
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Et pendant que les autres hibernent, eux, ils continuent à coder.
-Parce qu’un projet cool avec les bons amis... c’est tout ce qu’il faut pour être heureux.
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-		   ____
-		  |_>_ |	   ____
-   ____		  |_[]_|	  |_>_ |
-  |_>_ |			  |_[]_|
-  |_[]_|	  ,     ,
-  		 (\____/)	  /\_/\
-  (\_/)		 ( ^  ^ )	 ( ^.^ )
- (=^.^=)	  ( -- )	  > ^ <
- (")_(")	  (____)	 / ||| \
- /▯▯▯▯\	 /      \	 | ||| |
- Noisette	   Lilo		  Riko
+- - - - - -
+A suivre...
+- - - - - -
 
