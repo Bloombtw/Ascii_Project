@@ -15,10 +15,10 @@ un hackathon local organisé par les hiboux développeurs.
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝  ╚═╝  ╚═══╝   ╚══╝╚══╝  ╚═════╝  ╚═════╝ ╚═════╝ 
 				  ,     ,
 				 (\____/)	  /\_/\
-		  (\__/)	 ( ^  ^ )	 ( ^.^ )
+		  (\_/)		 ( ^  ^ )	 ( ^.^ )
 		 (=^.^=)	  ( -- )	  > ^ <
-		 (")_(")	  (____)	 / || \
-		 /▯▯▯▯\	 /      \	 | || |
+		 (")_(")	  (____)	 / ||| \
+		 /▯▯▯▯\	 /      \	 | ||| |
 		 Noisette	   Lilo		  Riko
 
 
@@ -27,11 +27,11 @@ Le défi ? En 24h, créer un outil utile pour la forêt.
 Noisette propose un détecteur de glands géolocalisé,
 mais Riko penche pour une appli de rencontres entre animaux : Tindergnion.
 ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔
-  (\__/)					 			 /\_/\
+  (\_/)					 				 /\_/\
  (='.'=) / On pourrai faire un		Non je pense qu'il vaut mieux \	( o.o )
  (")_(") \ détécteur de glands !	faire une app de rencontre !  /  > ^ <
- /▯▯▯▯\					 			/ || \
-						 			| || |
+ /▯▯▯▯\					 			/ ||| \
+						 			| ||| |
  Noisette					  			 Riko
 
 
@@ -39,11 +39,11 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 Finalement, ils tranchent pour Sniffly, une appli qui détecte les prédateurs proches
 en analysant les vibrations du sol et les signaux odorants.
 ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔
-  (\__/)					 						     /\_/\
+  (\_/)					 							     /\_/\
  (='.'=) / Et si on faisais quelque chose	Oui bonne idée ! On pourrai faire une app qui     \ ( ^.^ )
  (")_(") \ d'utile pour notre survie ?		détécte les prédateurs ! On l'appellerai Sniffly. /  > ^ <
- /▯▯▯▯\					 						    / || \
-						 						    | || |
+ /▯▯▯▯\					 						    / ||| \
+						 						    | ||| |
  Noisette					  						     Riko
 
 
