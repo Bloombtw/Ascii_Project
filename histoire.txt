@@ -3,12 +3,12 @@
  =========================================================
 
 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Les tests de terrain de Sniffly commencent, et très vite... ça part en cacahuète.
 Le problème ? Les taupes, complètement invisibles au radar visuel de l’appli,
 déclenchent des alertes à chaque fois qu’elles creusent sous terre.
 Résultat : Sniffly pense qu’un lynx attaque à chaque fois qu’une taupe éternue.
-▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  (\_/)		 (\_/)
 ( o.o )		( o.o )
  > ^ <		 > ^ <
@@ -27,10 +27,10 @@ Résultat : Sniffly pense qu’un lynx attaque à chaque fois qu’une taupe ét
 Encore une taupe
 
 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Et ce n’est pas tout. Les ragondins du marécage déclenchent des faux positifs
 à cause de leur parfum naturel, particulièrement... intense.
-▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
    ) *)  )  *
  *(  (  (  *
    (\_/)
@@ -46,9 +46,9 @@ Et ce n’est pas tout. Les ragondins du marécage déclenchent des faux positif
 [ALERTE] Attaque détecté !
 
 
-_ _ _ _ _ _
+- - - - - -
 Riko râle:
-▔ ▔ ▔ ▔ ▔
+- - - - - -
   /\_/\
  ( ò.ó ) / C’est pas une appli de détection,
   > ^ <  \ c’est une appli de panique collective !
@@ -57,11 +57,11 @@ Riko râle:
   Riko
 
 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Noisette trouve une solution : ajouter un module de reconnaissance
 "odeurs locales + vibrations + densité des moustaches".
 Lilo code ça en une nuit, boosté au maté de racine de pissenlit.
-▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
   ,     ,	   _______
  (\____/)	  |.-----.|
  ( -  - )	  ||x . x||
@@ -72,11 +72,11 @@ Lilo code ça en une nuit, boosté au maté de racine de pissenlit.
 		`-=========-`()
 
 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Au petit matin, les tests sont concluants. Plus de fausses alertes.
 Juste des vrais prédateurs, et quelques ragondins un peu vexés.
 Sniffly passe en version 1.0.1. C’est un succès.
-▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔ ▔
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 \	|	|	|	|	|	|	|	|	/
 
 _    ▄████████ ███▄▄▄▄    ▄█     ▄████████    ▄████████  ▄█       ▄██   ▄   _
