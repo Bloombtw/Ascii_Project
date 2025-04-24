@@ -66,3 +66,69 @@ Lilo doit redémarrer les serveurs tous les matins à la main. Ça sent le burno
    Lilo 	|:::::::::::|\
 		`-=========-`()
 
+
+ =========================================
+| Chapitre 2 – Hackathon sous les Étoiles |
+ =========================================
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Pour relancer la hype, nos amis décident de participer au Hack’n’Wood,
+un hackathon local organisé par les hiboux développeurs.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+██╗  ██╗ █████╗  ██████╗██╗  ██╗█╗███╗   ██╗█╗██╗    ██╗ ██████╗  ██████╗ ██████╗ 
+██║  ██║██╔══██╗██╔════╝██║ ██╔╝╚╝████╗  ██║╚╝██║    ██║██╔═══██╗██╔═══██╗██╔══██╗
+███████║███████║██║     █████╔╝   ██╔██╗ ██║  ██║ █╗ ██║██║   ██║██║   ██║██║  ██║
+██╔══██║██╔══██║██║     ██╔═██╗   ██║╚██╗██║  ██║███╗██║██║   ██║██║   ██║██║  ██║
+██║  ██║██║  ██║╚██████╗██║  ██╗  ██║ ╚████║  ╚███╔███╔╝╚██████╔╝╚██████╔╝██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝  ╚═╝  ╚═══╝   ╚══╝╚══╝  ╚═════╝  ╚═════╝ ╚═════╝ 
+				  ,     ,
+				 (\____/)	  /\_/\
+		  (\_/)		 ( ^  ^ )	 ( ^.^ )
+		 (=^.^=)	  ( -- )	  > ^ <
+		 (")_(")	  (____)	 / ||| \
+		 /▯▯▯▯\	 /      \	 | ||| |
+		 Noisette	   Lilo		  Riko
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Le défi ? En 24h, créer un outil utile pour la forêt.
+Noisette propose un détecteur de glands géolocalisé,
+mais Riko penche pour une appli de rencontres entre animaux : Tindergnion.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  (\_/)					 				 /\_/\
+ (='.'=) / On pourrai faire un		Non je pense qu'il vaut mieux \	( o.o )
+ (")_(") \ détécteur de glands !	faire une app de rencontre !  /  > ^ <
+ /▯▯▯▯\					 			/ ||| \
+						 			| ||| |
+ Noisette					  			 Riko
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Finalement, ils tranchent pour Sniffly, une appli qui détecte les prédateurs proches
+en analysant les vibrations du sol et les signaux odorants.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  (\_/)					 							     /\_/\
+ (='.'=) / Et si on faisais quelque chose	Oui bonne idée ! On pourrai faire une app qui     \ ( ^.^ )
+ (")_(") \ d'utile pour notre survie ?		détécte les prédateurs ! On l'appellerai Sniffly. /  > ^ <
+ /▯▯▯▯\					 						    / ||| \
+						 						    | ||| |
+ Noisette					  						     Riko
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+C’est un succès ! Même les renards sont bluffés (et un peu vexés).
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+\	|	|	|	|	|	|	|	|	/
+
+_    ▄████████ ███▄▄▄▄    ▄█     ▄████████    ▄████████  ▄█       ▄██   ▄   _
+    ███    ███ ███▀▀▀██▄ ███    ███    ███   ███    ███ ███       ███   ██▄	  _______
+_   ███    █▀  ███   ███ ███▌   ███    █▀    ███    █▀  ███       ███▄▄▄███ _	 | Hack  |
+    ███        ███   ███ ███▌  ▄███▄▄▄      ▄███▄▄▄     ███       ▀▀▀▀▀▀███	(|  'n'  |)
+_ ▀███████████ ███   ███ ███▌ ▀▀███▀▀▀     ▀▀███▀▀▀     ███       ▄██   ███ _	 | Wood  |
+           ███ ███   ███ ███    ███          ███        ███       ███   ███	  \  #1 /
+_    ▄█    ███ ███   ███ ███    ███          ███        ███▌    ▄ ███   ███ _	   '---'
+   ▄████████▀   ▀█   █▀  █▀     ███          ███        █████▄▄██  ▀█████▀  	   _|_|_
+                                                        ▀
+/	|	|	|	|	|	|	|	|	\
+
