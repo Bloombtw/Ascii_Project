@@ -132,3 +132,96 @@ _    ▄█    ███ ███   ███ ███    ███          �
                                                         ▀
 /	|	|	|	|	|	|	|	|	\
 
+
+ =========================================================
+| Chapitre 3 – Rongeurs, Taupes et Variables Malodorantes |
+ =========================================================
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Les tests de terrain de Sniffly commencent, et très vite... ça part en cacahuète.
+Le problème ? Les taupes, complètement invisibles au radar visuel de l’appli,
+déclenchent des alertes à chaque fois qu’elles creusent sous terre.
+Résultat : Sniffly pense qu’un lynx attaque à chaque fois qu’une taupe éternue.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ (\_/)		 (\_/)
+( o.o )		( o.o )
+ > ^ <		 > ^ <
+ Taupe	      Autre taupe
+
+[ALERTE] Attaque de Lynx détecté !
+[ALERTE] Attaque de Lynx détecté !
+[ALERTE] Attaque de Lynx détecté !
+[ALERTE] Attaque de Lynx détecté !
+[ALERTE] Attaque de Lynx détecté !
+...
+
+     (\_/)
+    ( >.< ) < ATCHOUM !
+     > ^ <
+Encore une taupe
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Et ce n’est pas tout. Les ragondins du marécage déclenchent des faux positifs
+à cause de leur parfum naturel, particulièrement... intense.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+   ) *)  )  *
+ *(  (  (  *
+   (\_/)
+  ( o_o )
+  (  -  )
+  /| | |\
+ ( | | | )
+(  | | |  )
+ ( | | | )
+  `"` `"`
+ Ragondin
+
+[ALERTE] Attaque détecté !
+
+
+- - - - - -
+Riko râle:
+- - - - - -
+  /\_/\
+ ( ò.ó ) / C’est pas une appli de détection,
+  > ^ <  \ c’est une appli de panique collective !
+ / ||| \
+ | ||| |
+  Riko
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Noisette trouve une solution : ajouter un module de reconnaissance
+"odeurs locales + vibrations + densité des moustaches".
+Lilo code ça en une nuit, boosté au maté de racine de pissenlit.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  ,     ,	   _______
+ (\____/)	  |.-----.|
+ ( -  - )	  ||- . -||
+  ( -- )	  ||__-__||
+  (____)	  `--)-(--`
+ /      \	 __[=== o]___
+   Lilo 	|:::::::::::|\
+		`-=========-`()
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Au petit matin, les tests sont concluants. Plus de fausses alertes.
+Juste des vrais prédateurs, et quelques ragondins un peu vexés.
+Sniffly passe en version 1.0.1. C’est un succès.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+\	|	|	|	|	|	|	|	|	/
+
+_    ▄████████ ███▄▄▄▄    ▄█     ▄████████    ▄████████  ▄█       ▄██   ▄   _
+    ███    ███ ███▀▀▀██▄ ███    ███    ███   ███    ███ ███       ███   ██▄
+_   ███    █▀  ███   ███ ███▌   ███    █▀    ███    █▀  ███       ███▄▄▄███ _
+    ███        ███   ███ ███▌  ▄███▄▄▄      ▄███▄▄▄     ███       ▀▀▀▀▀▀███
+_ ▀███████████ ███   ███ ███▌ ▀▀███▀▀▀     ▀▀███▀▀▀     ███       ▄██   ███ _
+           ███ ███   ███ ███    ███          ███        ███       ███   ███
+_    ▄█    ███ ███   ███ ███    ███          ███        ███▌    ▄ ███   ███ _
+   ▄████████▀   ▀█   █▀  █▀     ███          ███        █████▄▄██  ▀█████▀
+                                                        ▀		Nouvelle version !
+/	|	|	|	|	|	|	|	|	v.1.0.1
+
